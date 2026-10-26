@@ -1,0 +1,5 @@
+[run]
+id = "baseline"
+
+[inputs]
+source_root = "data/figure_source"

@@ -1,0 +1,7 @@
+dataset,model_n,primary_identity_valid,GRU_identity_valid,task_valid
+BACE,1513,1513,1513,1513
+BBBP,2036,2036,2036,2036
+ClinTox,1468,1468,1466,1468
+SIDER,1388,1388,1383,1388
+Tox21,7815,7807,7807,5827
+ToxCast,8564,8564,8564,7919

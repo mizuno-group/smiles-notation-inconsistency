@@ -1,0 +1,9 @@
+dataset,sensitivity,model,best_C,test_n,positive_n,metric,estimate,ci_low,ci_high,positive_prevalence,bootstrap_resamples,display_model
+ClinTox,all_heldout,K/A indicator,binary,294,22,AUROC,0.8863636363636364,0.7954545454545454,0.9772727272727272,0.0748299319727891,10000,K/A indicator
+ClinTox,all_heldout,K/A indicator,binary,294,22,AUPR,0.7897340754483612,0.6215213358070502,0.9579468150896724,0.0748299319727891,10000,K/A indicator
+ClinTox,all_heldout,Other notation differences,10.0,294,22,AUROC,0.93048128342246,0.8365641711229946,0.998663101604278,0.0748299319727891,10000,Other representation differences
+ClinTox,all_heldout,Other notation differences,10.0,294,22,AUPR,0.8740156146791815,0.741987234583949,0.9863746334310848,0.0748299319727891,10000,Other representation differences
+BBBP,all_heldout,K/A indicator,binary,408,312,AUROC,0.7784455128205128,0.749198717948718,0.8076923076923077,0.7647058823529411,10000,K/A indicator
+BBBP,all_heldout,K/A indicator,binary,408,312,AUPR,0.8950029233819716,0.8805457455027038,0.909192189891061,0.7647058823529411,10000,K/A indicator
+BBBP,all_heldout,Other notation differences,10000.0,408,312,AUROC,0.8993055555555556,0.8684219751602564,0.9277852897970086,0.7647058823529411,10000,Other representation differences
+BBBP,all_heldout,Other notation differences,10000.0,408,312,AUPR,0.969108390742551,0.9592083595383668,0.9781418959192412,0.7647058823529411,10000,Other representation differences

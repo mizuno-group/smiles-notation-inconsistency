@@ -1,0 +1,8 @@
+[run]
+id = "baseline"
+
+[inputs]
+contingency = ""
+writer_pairs = ""
+adopted_contingency = ""
+adopted_writer_summary = ""

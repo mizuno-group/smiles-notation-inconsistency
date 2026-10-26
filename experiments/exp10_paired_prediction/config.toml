@@ -1,0 +1,10 @@
+[run]
+id = "baseline"
+
+[inputs]
+predictions = ""
+seed_reference = ""
+adopted_metrics = ""
+
+[evaluation]
+resamples = 5000
