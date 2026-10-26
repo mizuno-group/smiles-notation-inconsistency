@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using this metadata."
+title: "SMILES notation inconsistency analysis and Transformer–VAE software"
+type: software
+authors:
+  - family-names: Kikuchi
+    given-names: Yosuke
+    website: "https://github.com/KikuchiY16"
+  - family-names: Yoshikai
+    given-names: Yasuhiro
+  - family-names: Nemoto
+    given-names: Shumpei
+  - family-names: Furuhama
+    given-names: Ayako
+  - family-names: Yamada
+    given-names: Takashi
+  - family-names: Kusuhara
+    given-names: Hiroyuki
+  - family-names: Mizuno
+    given-names: Tadahaya
+    email: "tadahaya@gmail.com"
+    website: "https://github.com/tadahayamiz"
+contact:
+  - family-names: Mizuno
+    given-names: Tadahaya
+    email: "tadahaya@gmail.com"
+license: MIT

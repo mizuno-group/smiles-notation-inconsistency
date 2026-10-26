@@ -1,0 +1,10 @@
+[run]
+id = "baseline"
+
+[inputs]
+predictions = ""
+adopted_effects = ""
+
+[bootstrap]
+seed = 20260919
+resamples = 5000

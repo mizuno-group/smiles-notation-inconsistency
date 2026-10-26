@@ -1,0 +1,11 @@
+[run]
+id = "baseline"
+
+[inputs]
+oof_root = ""
+adopted_metrics = ""
+
+[evaluation]
+bootstrap_resamples = 2000
+bootstrap_seed = 20260921
+oof_seed = 3
